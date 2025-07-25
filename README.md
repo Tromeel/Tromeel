@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin Torome</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🌱 I’m currently learning **django**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
